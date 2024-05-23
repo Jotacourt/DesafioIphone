@@ -41,7 +41,7 @@ Definição das Classes: Foram criadas as classes AparelhoTelefonico, Iphone e U
 Implementação do Menu Interativo: A classe UsuarioIphone foi desenvolvida para apresentar um menu interativo no console, permitindo ao usuário selecionar diferentes funcionalidades.
 Testes e Ajustes: O código foi testado para garantir que todas as funcionalidades funcionam conforme o esperado e ajustes foram feitos para corrigir quaisquer problemas encontrados.
 
-<img>src=![image](https://github.com/Jotacourt/DesafioIphone/assets/142851854/20307d21-9761-45d3-9ce7-ee82d2d459d3)
+<img>![image](https://github.com/Jotacourt/DesafioIphone/assets/142851854/20307d21-9761-45d3-9ce7-ee82d2d459d3)
 
 SEGUE LINK DA DIAGRAMAÇÃO UML:
  https://lucid.app/lucidchart/5760d5ab-6a28-492a-813c-053a0c7f250b/edit?viewport_loc=-327%2C-123%2C2219%2C1087%2CHWEp-vi-RSFO&invitationId=inv_e06dd055-640d-4837-8aa8-ecad8a2dfceb
